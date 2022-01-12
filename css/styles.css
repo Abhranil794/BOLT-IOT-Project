@@ -1,0 +1,36 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    background-color: #191A19;
+}
+#testimonials{
+    text-align: center;
+    background-color: #191A19;
+    color: #f1f3f5;
+    padding: 40px 0px;
+}
+
+.content{
+    padding: 10px;
+}
+
+#demo{
+    text-align: center;
+    padding: 5%;
+}
+
+.logo h1{
+    margin-bottom: 0px;
+    color: #f1f3f5;
+    text-align: center;
+    padding: 1%;
+    font-family: 'Dancing Script', cursive;
+}
+
+footer{
+    background-color: #191A19;
+    color: azure;
+}
+.py-3{
+    font-family: 'Dancing Script', cursive;
+}
